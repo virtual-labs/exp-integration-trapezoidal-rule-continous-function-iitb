@@ -1,1 +1,1 @@
-## Experiment name
+## Integration - Trapezoidal Rule (Continous Function)
