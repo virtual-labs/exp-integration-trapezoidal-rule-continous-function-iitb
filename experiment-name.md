@@ -1,0 +1,1 @@
+## Integration - Trapezoidal Rule (Continous Function)
