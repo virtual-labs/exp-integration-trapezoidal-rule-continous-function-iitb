@@ -1,0 +1,20 @@
+[
+    {
+        "question": "The order of accuracy achieved by the Trapezoidal rule is _______________________",
+        "qid": 1,
+        "option_a": "First order",
+        "option_b": "Second order",
+        "option_c": "Third order",
+        "option_d": "Fourth order",
+        "correct_option": "a"
+    },
+    {
+        "question": "The integration by Trapezoidal rule is given by ______________",
+        "qid": 2,
+        "option_a": "$$ I = [f(x_1) + f(x_2)] $$",
+        "option_b": "$$ I = \\frac{h}{2}[f(x_1) + f(x_2)] $$",
+        "option_c": "$$ I = \\frac{h}{2}[f(x_1) - f(x_2)] $$",
+        "option_d": "$$ I = \\frac{h}{2}[f(x_2)] $$",
+        "correct_option": "b"
+    }
+]
