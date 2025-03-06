@@ -1,0 +1,25 @@
+
+[
+    {
+        "question": "Given that x varies from 4 to 10.  Find the value of Integration of $$ Y(x) = (x^4 - 5x + 3)dx $$ and take h = 1 by using Trapezoidal rule with continous function.",
+        "qid": 1,
+        "option_a": "18464",
+        "option_b": "19034",
+        "option_c": "19915",
+        "option_d": "19324",
+        "correct_option": "c"
+    },
+    {
+        "question": "Given that x varies from 1 to 17. Find the value of Integration of $$ Y(x) = (x^4 - 5x + 3)dx $$ and take h = 1 by using Trapezoidal rule with continous function.",
+        "qid": 2,
+        "option_a": "3373",
+        "option_b": "3523",
+        "option_c": "3034",
+        "option_d": "2367",
+        "correct_option": "a"
+     }
+   
+]
+
+
+
